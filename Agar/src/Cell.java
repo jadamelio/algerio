@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Random;
-
+//Comments
 public class Cell implements MainInterface
 {
   public int xCord;
